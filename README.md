@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Bacon Fansite</title>
+  <link rel="stylesheet" href="styless.css">
+</head>
+
+<body>
+  <h1>I like</h1>
+  <h1>Tarzan(Rahman) Yamada</h1>
+  <p>He is the best(and Funny) Time Attack Driver i ever see in Video Option!</p>
+  <p>ever his Human Experiments(Tarzan Human Body Experiment) make Video Option have more interesting to him and Video Option</p>
+  <p>also he have some famous history about he survived the crash that time he drive Silvia S14 at 300km/h on Yatabe during run</P>
+  
+  <img style="width: 25%" src="Screenshot 2025-11-16 013121.png" alt="Tarzan Yamada During First Seat test(Stock AE86 Seat)">
+  <img style="width: 23%" src="Screenshot 2025-11-16 015558.png" alt="Tarzan Yamada After Experiments In Top Secret Skyline R34">
+  <img style="width: 20%" src="Screenshot 2025-11-16 015923.png" alt="Tarzan Yamada Before Experiments In Top Secret Skyline R34">
+</body>
+
+</html>
